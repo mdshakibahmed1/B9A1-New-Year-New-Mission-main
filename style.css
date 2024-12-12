@@ -1,0 +1,285 @@
+header{
+    padding-left: 120px;
+    padding-right: 120px;
+    
+  
+    
+    
+}
+.bannar-content{
+    background-image: url(resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    background-size: cover;
+    
+  
+}
+ .tex{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size:32px ;
+    padding-top:177px;
+   
+ 
+}
+ .bannar-title{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+ }
+ 
+.bannar-title-1{
+    color:#ff0000;
+    height: 106px;
+    top: 770px;
+    left: 608px;
+    font-weight:700 ;
+    font-size: 88px; 
+    text-align: center;
+    
+}
+    
+.tex-title{
+    color: #ff0000;
+    text-align: center;
+    font-size:24px ;
+    height: 29px;
+    top: 925px;
+    left: 602px;
+    font-weight: 500;
+    letter-spacing: 0%;
+  
+}
+.bannar-title-2{
+    font-size: 48px;
+    color: black;
+    height:59px;
+    top: 970px;
+    left: 595px;
+    font-weight: 700;
+    row-gap: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+    gap: 47px;
+}
+
+.img-container, img{
+    height: 500px;
+    top: 1076px;
+    padding-left: 150px;
+    margin-bottom: 120px;  
+}
+.teams-container{
+    display: flex;
+    background-image: url(resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position:center;
+    Width: 1320px;
+    Height: 600px;
+    Top: 1696px;
+    Left: 140px; 
+    color: rgb(7, 2, 17)
+    rgba(7, 2, 17, 0);   
+    margin-bottom: 120px;
+    background-size: cover;
+}
+.bannar-title-3{
+    width: 642px;
+    height: 147px ;
+    top: 1822px;
+    left: 266px;
+    font-size:62px;
+    color: rgb(255, 255, 255); 
+    font-weight: 900;
+    letter-spacing:11% ;
+    text-align: left;
+    padding-top: 126px;
+    padding-left: 126px;
+}
+.tex-light-gray{
+    font-size: 18px;
+    font-weight:400;
+    padding-left: 126px;
+    color:rgba(255, 255, 255, 0.8);
+    letter-spacing: 0%;
+    text-align: left;
+
+}
+.Join-now{
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 0%;
+    text-align: left;
+    color: #ffffff;
+    padding-left: 126px;
+}
+.teams-container > div > img{
+    Width: 319.83px;
+    Height: 464.66px;
+    Top: 1766px;
+    Left: 1002px;
+    padding: 70px 862px 138.17px 65.32px;
+}
+section{
+    padding-left: 120px;
+}
+
+.details-container{
+    Width: 1320px;
+    Height: 482px;
+    Top: 2416px;
+    Left: 140px;
+    background-color: #f0e8e8; 
+}
+.details{
+    padding-top: 100px; 
+   
+}
+   
+main section div p{
+    font-weight: 600;
+    font-size: 32px;
+    height: 56px;
+    letter-spacing: 0%;
+    text-align: center;
+    color:rgb(7, 2, 17)
+}
+.tex-color{
+    color: rgb(255, 0, 0);
+
+}
+
+.btn-primary{
+ text-align: center;
+}
+.btn{
+    color:rgb(255, 255, 255) ;
+    border: 0;
+    Width: 167px;
+    Height: 40px;
+    Top: 8px;
+    Left: 32px;
+    background-color:rgb(255, 0, 0);
+    padding: 16px, 32px, 16px, 32px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+main> section > nav{
+    Width: 1320px;
+    Height: 463px;
+    Top: 3040px;
+    Left: 140px;
+
+}
+.offer-container{
+    display:flex;
+    margin-top: 142px;
+}
+.offer-content-1{
+    Width: 393px;
+    Height: 255px;
+    Top: 3122px;
+    Left: 140px;
+}
+.tex-title-1{
+    Width: 207px;
+    Height: 29px;
+    Top: 3122px;
+    Left: 140px;
+    font-weight: 500;
+    font-size: 24px;
+    height: 29px;
+    letter-spacing: 0%;
+    color:rgb(255, 0, 0) ;
+
+}
+.tex-title-2{
+    
+    Width: 328px;
+    Height: 60px;
+    Top: 3167px;
+    Left: 140px;
+    font-weight: 900;
+    font-size: 48px;
+    height: 60px;
+    letter-spacing: 0%;
+
+}
+.offer-paragrsph{
+    Width: 393px;
+    Height: 128px;
+    Top: 3249px;
+    Left: 140px;
+    font-size: 400px;
+    font-size: 20px;
+    height: 32px;
+    letter-spacing: 0%;
+    text-align: left;
+    color: rgba(7, 2, 17, 0.6);
+
+}
+.img-container-1{
+    Width: 463px;
+    Height: 463px;
+    Top: 3040px;
+    Left: 614px;
+   
+   
+
+}
+#img-1{
+   
+    border: 15px solid red;
+    padding: 49.08px 49.08px 49.08px 49.08px;
+    Width: 364.84px;
+    Height: 364.84px;
+    Top: 3089.08px;
+    Left: 663.08px;
+    border-radius: 50%;
+   
+
+}
+.offer-content-2{
+    padding-left:107px ;
+}
+.Year{
+
+    Width: 126px;
+    Height: 59px;
+    Top: 3130px;
+    Left: 1184.33px;
+    font-weight: 700;
+    font-size: 48px;
+    height: 58px;
+    letter-spacing: 0%;
+    color: rgb(255, 0, 0);
+
+}
+.offer-content-2 > img{
+    Width: 140px;
+    Height: 140px;
+    Top: 3343px;
+    Left: 1184px;
+    padding-top: 43px;
+    padding-left:0px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
