@@ -151,7 +151,7 @@ main section div p{
 }
 
 .btn-primary{
- text-align: center;
+    text-align: center;
 }
 .btn{
     color:rgb(255, 255, 255) ;
@@ -204,6 +204,7 @@ main> section > nav{
     font-size: 48px;
     height: 60px;
     letter-spacing: 0%;
+    
 
 }
 .offer-paragrsph{
@@ -265,6 +266,111 @@ main> section > nav{
     padding-left:0px;
 
 }
+.bannar-container{
+    text-align: center; 
+    margin-top:98px ;
+}
+.bannar-1{
+    color:rgb(7, 2, 17);
+    font-weight: 500;
+    font-size:24px ;
+    width: 263;
+    height:29px ;
+    padding-top: 0;
+
+}
+.bannar-2{
+    padding-top: 0;
+    Height: 91px;
+    font-weight: 900;
+    font-size: 72px;
+    color: rgb(7, 2, 17);
+}
+.bannar-tex{
+    padding-top: 0;
+    font-weight: 500;
+    font-size: 20px;
+    height: 32px;
+    color: rgba(7, 2, 17, 0.6);
+    padding-left: 15%;
+
+}
+.img-box-container{
+    Width: 1320px;
+    Height: 616px;
+    Top: 5990.07px;
+    Left: 140px;
+
+}
+.img-container-4{
+    padding-left: 180px;
+
+}
+
+.tex-color-gray{
+   
+    Width: 896px;
+    Height: 64px;
+    Top: 4834px;
+    font-weight: 400;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    text-align: left;
+  
+
+
+}
+
+
+.box{
+    display: block;
+    float: left;
+    width:24%;
+    padding: 20px;
+}
+.box > img{
+    width: 100%;
+    height: 50%;
+}
+.footer-container{
+    margin-top: 120px;
+    Width: 1320px;
+    Height: 616px;
+    Top: 5990.07px;
+    Left: 140px;
+}
+.footer{
+    Width: 896px;
+    Height: 336px;
+    Top: 6070.07px;
+    Left: 352px;
+    padding:79px 212px 200px 212px ;
+    text-align: center;
+    
+
+    
+}
+.footer-img{
+    Width: 150px;
+    Height: 150px;
+    Top: 6070px;
+    Left: 725px;
+    
+}
+.footer-title{
+    Width: 512px;
+    Height: 60px;
+    Top: 6260px;
+    Left: 544px;
+    font-weight: 900;
+    font-size: 48px;
+    height: 60px;
+    color: rgb(7, 2, 17);
+    padding-left: 30%;
+}
+
+
+
 
 
 
